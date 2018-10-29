@@ -1,6 +1,5 @@
 import React from 'react';
 import './Home.css';
-import logo from './react.svg';
 import logo from './conplement_logo.png';
 
 class Home extends React.Component {
