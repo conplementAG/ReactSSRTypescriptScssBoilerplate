@@ -2,6 +2,8 @@
 
 ### Work in progress / not usable yet!
 
+[![Build Status](https://cpgithub.visualstudio.com/ReactSSRTypescriptScssBoilerplate/_apis/build/status/conplementAG.ReactSSRTypescriptScssBoilerplate)](https://cpgithub.visualstudio.com/ReactSSRTypescriptScssBoilerplate/_build/latest?definitionId=2)
+
 ## Features
 - ✅ Server side rendering
 - ✅ Typescript 
