@@ -15,7 +15,8 @@ class Home extends React.Component {
           <code>src/Home.tsx</code> and save to reload.
         </p>
         <p>
-          Powered by <a href="https://github.com/jaredpalmer/razzle">Razzle</a> and <a href="https://reactjs.org/">React</a>
+          Powered by <a href="https://github.com/jaredpalmer/razzle">Razzle </a> 
+          and <a href="https://reactjs.org/">React</a>
         </p>
       </div>
     );
