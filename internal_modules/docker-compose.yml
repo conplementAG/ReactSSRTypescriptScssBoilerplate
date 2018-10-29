@@ -1,0 +1,14 @@
+version: '3.4'
+
+services:
+  generate-bff-proxy:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/internal_modules
+
+networks:
+  default:
+    external:
+      name: local_development_network
