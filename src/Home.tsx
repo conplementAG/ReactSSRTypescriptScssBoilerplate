@@ -1,9 +1,9 @@
 import React from 'react';
-import logo from './react.svg';
 import './Home.css';
+import logo from './react.svg';
 
 class Home extends React.Component {
-  render() {
+  public render() {
     return (
       <div className="Home">
         <div className="Home-header">
