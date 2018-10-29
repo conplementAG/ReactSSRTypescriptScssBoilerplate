@@ -1,3 +1,5 @@
+# This Dockerfile is only for purpose of CI, 
+# it does not produce production ready images at all!
 FROM node:alpine as build
 
 RUN mkdir /app
@@ -5,6 +7,6 @@ WORKDIR /app
 
 COPY package*.json /app/
 RUN npm install
-COPY . /app/
 
+COPY . /app/
 RUN npm run build
