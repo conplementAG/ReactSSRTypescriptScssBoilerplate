@@ -24,12 +24,13 @@
   },
   "exclude": [
     "node_modules",
+    "internal_modules",
     "build",
     "scripts",
     "acceptance-tests",
     "webpack",
     "jest",
-    "razzle.config.js"
+    "razzle.config.js"    
   ],
   "types": ["typePatches", "node", "webpack-env"]
 }

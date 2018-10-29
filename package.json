@@ -1,6 +1,7 @@
 {
-  "name": "my-razzle-app",
-  "version": "2.0.0-alpha.8",
+  "name": "conplement-react-ssr-typescript-ssr-scss-boilerplate",
+  "version": "1.0.0",
+  "repository": "https://github.com/conplementAG/ReactSSRTypescriptScssBoilerplate",
   "license": "MIT",
   "scripts": {
     "start": "razzle start",
@@ -23,6 +24,7 @@
     "@types/react-dom": "^16.0.9",
     "@types/react-router-dom": "^4.3.1",
     "@types/webpack-env": "^1.13.6",
+    "babel-eslint": "^7.2.3",
     "cross-env": "^5.2.0",
     "razzle": "2.4.0",
     "razzle-plugin-typescript": "^2.4.0",
