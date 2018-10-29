@@ -1,5 +1,6 @@
 import React from 'react';
-import './Home.css';
+
+import './Home.scss';
 import logo from './react.svg';
 
 class Home extends React.Component {
