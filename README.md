@@ -1,5 +1,7 @@
 # React project template
 
+### Work in progress / not usable yet!
+
 ## Features
 - Server side rendering
 - Typescript
