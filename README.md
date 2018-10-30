@@ -1,15 +1,16 @@
 # React project template
 
-### Work in progress / not usable yet!
+### Work in progress
 
 [![Build Status](https://cpgithub.visualstudio.com/ReactSSRTypescriptScssBoilerplate/_apis/build/status/conplementAG.ReactSSRTypescriptScssBoilerplate)](https://cpgithub.visualstudio.com/ReactSSRTypescriptScssBoilerplate/_build/latest?definitionId=2)
 
 ## Features
 - ✅ Server side rendering
 - ✅ Typescript 
-- ✅ Scss (pull request pending)
+- ✅ Scss
 - ✅ Hot Module Replacement (client & server)
 - ✅ Tests (Jest)
+- Server & client side debugging
 - Code Coverage (Jest)
 - Linting (Tslint)
 - Microfrontends ready (unique base paths for static assets, escape hatch possible for all webpack configuration bits if needed)
