@@ -24,3 +24,4 @@
 - run `npm start` to start in development mode with HMR for both client and server side code. Note that in this mode you will get a brief FOUC at the startup, but this is gone when using production build
 - to see how the app looks like in production build, run `npm build` and then `npm run start:prod`
 - for tests, simply use `npm test`
+- for debugging in VisualStudio Code zu run F5 - Start Debugging
