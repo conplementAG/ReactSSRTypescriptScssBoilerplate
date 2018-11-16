@@ -12,7 +12,7 @@
             "runtimeArgs": [
                 "start",
                 "--",
-                "--inspect",
+                "--inspect-brk",
                 "--inspect-port",
                 "3000",
             ],
