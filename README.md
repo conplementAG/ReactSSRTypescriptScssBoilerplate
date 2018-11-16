@@ -2,7 +2,7 @@
 
 ### Work in progress
 
-[![Build Status](https://cpgithub.visualstudio.com/ReactSSRTypescriptScssBoilerplate/_apis/build/status/conplementAG.ReactSSRTypescriptScssBoilerplate)](https://cpgithub.visualstudio.com/ReactSSRTypescriptScssBoilerplate/_build/latest?definitionId=2)
+[![Build Status](https://cpgithub.visualstudio.com/GitHubPipelines/_apis/build/status/conplementAG.ReactSSRTypescriptScssBoilerplate)](https://cpgithub.visualstudio.com/GitHubPipelines/_build/latest?definitionId=4)
 
 ## Features
 - ✅ Server side rendering
@@ -27,3 +27,5 @@
 - run `npm start` to start in development mode with HMR for both client and server side code. Note that in this mode you will get a brief FOUC at the startup, but this is gone when using production build
 - to see how the app looks like in production build, run `npm build` and then `npm run start:prod`
 - for tests, simply use `npm test`
+- for debugging of server side code -> use VisualStudio Code (F5 / Start Debugging)
+- for debugging of client side code -> either use VS Code Chrome plugin, or use the Chrome Inspector directly as you would debug any JS app
