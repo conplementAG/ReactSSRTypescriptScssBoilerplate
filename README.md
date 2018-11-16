@@ -2,7 +2,7 @@
 
 ### Work in progress
 
-[![Build Status](https://cpgithub.visualstudio.com/GitHubPipelines/_apis/build/status/conplementAG.ReactSSRTypescriptScssBoilerplate)](https://cpgithub.visualstudio.com/GitHubPipelines/_build/latest?definitionId=4)
+[![CI Status](https://cpgithub.visualstudio.com/GitHubPipelines/_apis/build/status/conplementAG.ReactSSRTypescriptScssBoilerplate)](https://cpgithub.visualstudio.com/GitHubPipelines/_build/latest?definitionId=6)
 
 ## Features
 - ✅ Server side rendering
