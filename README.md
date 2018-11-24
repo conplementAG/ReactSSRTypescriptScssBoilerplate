@@ -10,10 +10,10 @@
 - ✅ Scss
 - ✅ Hot Module Replacement (client & server)
 - ✅ Tests (Jest)
-- Server & client side debugging
+- ✅ Server & client side debugging
 - Code Coverage (Jest)
 - Linting (Tslint)
-- Microfrontends ready (unique base paths for static assets, escape hatch possible for all webpack configuration bits if needed)
+- ✅ Microfrontends ready (unique base paths for static assets, escape hatch possible for all webpack configuration bits if needed)
 
 ## Out of scope
 - architectural patterns and structure such as flux / redux / mobx / IoC & DI etc.
